@@ -1,0 +1,39 @@
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.csprojAssemblyReference.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.AssemblyInfoInputs.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.AssemblyInfo.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.csproj.CoreCompileInputs.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.RazorAssemblyInfo.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.RazorAssemblyInfo.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.exe
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.deps.json
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.runtimeconfig.json
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.runtimeconfig.dev.json
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.dll
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.pdb
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.Views.dll
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\bin\Debug\netcoreapp3.1\Coffee Shop Lab.Views.pdb
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.TagHelpers.input.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.TagHelpers.output.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.RazorCoreGenerate.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\CoffeeShop\RegisterUser.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.RazorTargetAssemblyInfo.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.RazorTargetAssemblyInfo.cs
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.Views.pdb
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\staticwebassets\Coffee Shop Lab.StaticWebAssets.Manifest.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\staticwebassets\Coffee Shop Lab.StaticWebAssets.xml
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.dll
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.pdb
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.genruntimeconfig.cache
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Coffee Shop Lab.csproj.CopyComplete
+C:\Users\verke\source\repos\Coffee Shop Lab\Coffee Shop Lab\obj\Debug\netcoreapp3.1\Razor\Views\CoffeeShop\FormResult.cshtml.g.cs

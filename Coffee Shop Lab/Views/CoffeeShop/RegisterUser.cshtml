@@ -1,0 +1,159 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Coffee_Shop_Lab.Models.CoffeeShop.FormViewModel
+
+<p> Please fill out the form to register!</p>
+
+
+<form asp-controller="CoffeeShop" asp-action="FormResult" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="FirstName">FirstName:</label>
+        <input class="form-control" asp-for="FirstName" placeholder="Enter your First Name">
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName"> LastName:</label>
+        <input class="form-control" asp-for="LastName" placeholder="Enter your Last Name">
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">Email:</label>
+        <input class="form-control" asp-for="Email" placeholder="Enter your email">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNumber">Phone Number:</label>
+        <input class="form-control" asp-for="PhoneNumber" placeholder="Enter your phone Number">
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Age">Age:</label>
+        <input class="form-control" asp-for="Age" placeholder="Enter your age">
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateOfBirth">Date of Birth :</label>
+        <input class="form-control" asp-for="DateOfBirth" placeholder="Enter your birthdate">
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Password :</label>
+        <input class="form-control" asp-for="Password" placeholder="Enter your password">
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ConfirmPassword"> ConfirmPassword :</label>
+        <input class="form-control" asp-for="ConfirmPassword" placeholder="Confirm your password">
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <!--- <button type="button" class="btn btn-info">Create an Account</button>-->
+        <button>Create an Account</button>
+    </div>
+    <!----<div class="form-group">
+         <input type="submit" value="Create an Account" class="btn btn-primary" />
+     </div> -->
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+}
+
+
+<!----<div class="row">
+<div class="col-md-4">
+    <form asp-action="FormResult">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="FirstName" class="control-label"></label>
+            <input asp-for="FirstName" class="form-control" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName" class="control-label"></label>
+            <input asp-for="LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="PhoneNumber" class="control-label"></label>
+            <input asp-for="PhoneNumber" class="form-control" />
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Age" class="control-label"></label>
+            <input asp-for="Age" class="form-control" />
+            <span asp-validation-for="Age" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" class="form-control" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ConfirmPassword" class="control-label"></label>
+            <input asp-for="ConfirmPassword" class="form-control" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+</div>
+
+<div>
+    <a asp-action="FormResult">Back to List</a>
+</div> -->
+<!--<form asp-controller="CoffeeShop" asp-action="FormResult" method="post">
+
+    <label asp-for="FirstName"></label>
+    <input asp-for="FirstName" />
+    <p></p>
+    <br />
+    <label asp-for="LastName"></label>
+    <input asp-for="LastName" />
+    <p></p>
+    <br />
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <p></p>
+    <br />
+
+    <label asp-for="PhoneNumber"></label>
+    <input asp-for="PhoneNumber" />
+    <p></p>
+    <br />
+
+    <label asp-for="Age"></label>
+    <input asp-for="Age" />
+    <p></p>
+    <br />
+
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password" />
+
+    <br />
+
+    <label asp-for="ConfirmPassword"></label>
+    <input asp-for="ConfirmPassword" />
+    <p></p>
+    <br />
+
+    <p></p>
+    <button>Create an Account</button>
+
+
+
+</form> -->
