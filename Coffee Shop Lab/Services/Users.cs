@@ -19,7 +19,7 @@ namespace Coffee_Shop_Lab.Services
             return View(viewModel);
         }*/
 
-
+        //Unable to add my Users class in the Models. It is giving me an error 
         [Required]
         public string FirstName { get; set; }
 

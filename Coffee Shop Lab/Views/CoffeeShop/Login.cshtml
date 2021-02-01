@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model Coffee_Shop_Lab.Models.CoffeeShop.LoginViewModel
+
+<p> Please login with your Username and Password </p>
+
+<form asp-controller="CoffeeShop" asp-action="LoginResult" method="post">
+
+    <label asp-for="UserName"></label>
+    <input asp-for="UserName" />
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password " />
+
+    <button>Login</button>
+
+</form>
